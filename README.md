@@ -25,7 +25,19 @@ This app is more profound as users who want to learn about historical famous peo
 The app should generate the age of the historical figures and state the name of the historical person and name as the user operates it.   
 
  
+REFERENCE 
 
+GitHub.[online]. Available at: https://github.com/ [Accessed 9 April 
+
+ The Most Famous Deaths Throughout History, 13 April 2020. [online]. Available at:  https://m.imdb.com/poll/amzke9Xvfms/ [Accessed 8 April 2024]. 
+
+Julis Caesar Age at death ,27 October 2009. [online]. Available at: https://www.history.com/topics/ancient-rome/julius-caesar/ [Accessed 6 April 2024] 
+
+ 
+
+ 
+
+  
  
 
  
